@@ -1,0 +1,26 @@
+form.imagelabelmaker{
+  margin-top:30px;
+}
+.imagelabelmaker label{
+font-weight: bold;
+}
+.imagelabelmaker input[type="radio"]{
+
+ margin-left:20px;
+}
+.imglblerror{
+color: #FF0000;
+padding: 20px;
+border: solid 1px #FF0000;
+border-radius:5px;
+background: #FFB7BC;
+  margin-bottom:30px;
+}
+input[type="submit"].backbtn{
+  margin:20px auto;
+}
+
+
+
+
+
